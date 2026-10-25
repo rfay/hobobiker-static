@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 2.5.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/3 http://www.topografix.com/GPX/Private/TopoGrafix/0/3/topografix.xsd">
+<metadata>
+<bounds minlat="-8.54254344" minlon="-79.02375238" maxlat="-8.09619418" maxlon="-78.67533569"/>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2008-09-19T16:24:27.781Z</time>
+</extensions>
+</metadata>
+<wpt lat="-8.54113385" lon="-78.67798529">
+<ele>96.257</ele>
+<time>2008-09-19T16:18:30Z</time>
+<name>Chao Htl</name>
+<cmt>16-AUG-08 5:07:07PM</cmt>
+<sym>Flag, Blue</sym>
+<type>Flag, Blue</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Chao Htl</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-8.10483760" lon="-79.02161709">
+<ele>55.882</ele>
+<time>2008-09-19T16:18:30Z</time>
+<name>Lucho</name>
+<cmt>26-JUL-08 7:35:36PM</cmt>
+<sym>Flag, Blue</sym>
+<type>Flag, Blue</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Lucho</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<trk>
+<name>20-AUG-08</name>
+<type>GPS Tracklog</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2008-09-19T16:23:39.531Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>20-AUG-08</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<color>000000</color>
+<opacity>1.00</opacity>
+<width>1.0000</width>
+<pattern>Trail</pattern>
+<dasharray>
+<dash mark="7.143" space="2.857"/>
+</dasharray>
+<extensions>
+<cased xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/3">true</cased>
+</extensions>
+</line>
+</extensions>
+<trkseg>
+<trkpt lat="-8.10106172" lon="-79.01201746">
+<ele>62.623</ele>
+</trkpt>
+<trkpt lat="-8.09619418" lon="-79.01783878">
+<ele>64.065</ele>
+</trkpt>
+<trkpt lat="-8.09993913" lon="-79.01934995">
+<ele>59.739</ele>
+</trkpt>
+<trkpt lat="-8.10398089" lon="-79.02349547">
+<ele>11.673</ele>
+</trkpt>
+<trkpt lat="-8.10451943" lon="-79.02148189">
+<ele>62.623</ele>
+</trkpt>
+<trkpt lat="-8.10581393" lon="-79.02240515">
+<ele>62.142</ele>
+</trkpt>
+<trkpt lat="-8.10929485" lon="-79.02164198">
+<ele>59.258</ele>
+</trkpt>
+<trkpt lat="-8.11357196" lon="-79.02375238">
+<ele>53.971</ele>
+</trkpt>
+<trkpt lat="-8.11704098" lon="-79.02019921">
+<ele>45.800</ele>
+</trkpt>
+<trkpt lat="-8.12523739" lon="-79.01758414">
+<ele>37.148</ele>
+</trkpt>
+<trkpt lat="-8.13118729" lon="-79.02153210">
+<ele>35.225</ele>
+</trkpt>
+<trkpt lat="-8.14218745" lon="-79.01322504">
+<ele>32.822</ele>
+</trkpt>
+<trkpt lat="-8.15095986" lon="-79.01135546">
+<ele>30.419</ele>
+</trkpt>
+<trkpt lat="-8.15459954" lon="-79.01233757">
+<ele>27.535</ele>
+</trkpt>
+<trkpt lat="-8.16138402" lon="-79.01148580">
+<ele>24.170</ele>
+</trkpt>
+<trkpt lat="-8.16717558" lon="-79.00725864">
+<ele>25.612</ele>
+</trkpt>
+<trkpt lat="-8.20710797" lon="-78.95593867">
+<ele>234.699</ele>
+</trkpt>
+<trkpt lat="-8.22873253" lon="-78.94476317">
+<ele>244.312</ele>
+</trkpt>
+<trkpt lat="-8.24249955" lon="-78.94065117">
+<ele>202.014</ele>
+</trkpt>
+<trkpt lat="-8.25657997" lon="-78.93426869">
+<ele>149.142</ele>
+</trkpt>
+<trkpt lat="-8.26401975" lon="-78.92803347">
+<ele>115.496</ele>
+</trkpt>
+<trkpt lat="-8.27533356" lon="-78.92426338">
+<ele>124.147</ele>
+</trkpt>
+<trkpt lat="-8.29612755" lon="-78.90832938">
+<ele>179.904</ele>
+</trkpt>
+<trkpt lat="-8.31867487" lon="-78.90096630">
+<ele>143.374</ele>
+</trkpt>
+<trkpt lat="-8.34181647" lon="-78.88649477">
+<ele>91.943</ele>
+</trkpt>
+<trkpt lat="-8.37057646" lon="-78.86670183">
+<ele>95.308</ele>
+</trkpt>
+<trkpt lat="-8.40209845" lon="-78.83892605">
+<ele>73.678</ele>
+</trkpt>
+<trkpt lat="-8.41542894" lon="-78.78958656">
+<ele>66.468</ele>
+</trkpt>
+<trkpt lat="-8.43088333" lon="-78.77593244">
+<ele>72.717</ele>
+</trkpt>
+<trkpt lat="-8.44858624" lon="-78.73618529">
+<ele>102.037</ele>
+</trkpt>
+<trkpt lat="-8.48652483" lon="-78.69578133">
+<ele>147.219</ele>
+</trkpt>
+<trkpt lat="-8.48981355" lon="-78.69373665">
+<ele>158.274</ele>
+</trkpt>
+<trkpt lat="-8.52030868" lon="-78.68410425">
+<ele>118.860</ele>
+</trkpt>
+<trkpt lat="-8.53473988" lon="-78.68155724">
+<ele>99.153</ele>
+</trkpt>
+<trkpt lat="-8.53842205" lon="-78.67770207">
+<ele>99.634</ele>
+</trkpt>
+<trkpt lat="-8.53932437" lon="-78.67956034">
+<ele>98.672</ele>
+</trkpt>
+<trkpt lat="-8.54118875" lon="-78.67804975">
+<ele>89.540</ele>
+</trkpt>
+<trkpt lat="-8.53991135" lon="-78.67647798">
+<ele>91.943</ele>
+</trkpt>
+<trkpt lat="-8.54254344" lon="-78.67533569">
+<ele>91.463</ele>
+</trkpt>
+</trkseg>
+</trk>
+<extensions>
+</extensions>
+</gpx>

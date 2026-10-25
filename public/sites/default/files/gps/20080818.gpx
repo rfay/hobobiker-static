@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 2.5.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/3 http://www.topografix.com/GPX/Private/TopoGrafix/0/3/topografix.xsd">
+<metadata>
+<bounds minlat="-8.74278610" minlon="-78.23696023" maxlat="-8.65418385" maxlon="-77.89982265"/>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2008-09-19T16:34:10.937Z</time>
+</extensions>
+</metadata>
+<wpt lat="-8.74278610" lon="-77.89982265">
+<ele>1412.772</ele>
+<time>2008-09-19T16:18:30Z</time>
+<name>Yuracmarca</name>
+<cmt>19-AUG-08 10:19:09AM</cmt>
+<sym>Flag, Blue</sym>
+<type>Flag, Blue</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Yuracmarca</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-8.73161302" lon="-77.93781102">
+<ele>1095.540</ele>
+<time>2008-09-19T16:18:30Z</time>
+<name>Camp Mango</name>
+<cmt>18-AUG-08 5:49:27PM</cmt>
+<sym>Flag, Blue</sym>
+<type>Flag, Blue</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Camp Mango</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-8.65592100" lon="-78.23483282">
+<ele>515.629</ele>
+<time>2008-09-19T16:18:30Z</time>
+<name>Chuquicara Cmp</name>
+<cmt>17-AUG-08 5:46:21PM</cmt>
+<sym>Flag, Blue</sym>
+<type>Flag, Blue</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Chuquicara Cmp</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<trk>
+<name>20-AUG-08</name>
+<type>GPS Tracklog</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2008-09-19T16:34:10.937Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>20-AUG-08</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<color>000000</color>
+<opacity>1.00</opacity>
+<width>1.0000</width>
+<pattern>Trail</pattern>
+<dasharray>
+<dash mark="7.143" space="2.857"/>
+</dasharray>
+<extensions>
+<cased xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/3">true</cased>
+</extensions>
+</line>
+</extensions>
+<trkseg>
+<trkpt lat="-8.65592896" lon="-78.23481915">
+<ele>518.288</ele>
+</trkpt>
+<trkpt lat="-8.65418385" lon="-78.23696023">
+<ele>489.448</ele>
+</trkpt>
+<trkpt lat="-8.65587507" lon="-78.23487213">
+<ele>518.288</ele>
+</trkpt>
+<trkpt lat="-8.65843523" lon="-78.23396655">
+<ele>517.807</ele>
+</trkpt>
+<trkpt lat="-8.65738657" lon="-78.23309248">
+<ele>520.691</ele>
+</trkpt>
+<trkpt lat="-8.65915633" lon="-78.23320186">
+<ele>520.691</ele>
+</trkpt>
+<trkpt lat="-8.66041454" lon="-78.22532858">
+<ele>532.708</ele>
+</trkpt>
+<trkpt lat="-8.66353906" lon="-78.21816959">
+<ele>531.746</ele>
+</trkpt>
+<trkpt lat="-8.66356437" lon="-78.21495413">
+<ele>537.995</ele>
+</trkpt>
+<trkpt lat="-8.66040808" lon="-78.21150715">
+<ele>539.918</ele>
+</trkpt>
+<trkpt lat="-8.65997055" lon="-78.20792800">
+<ele>547.127</ele>
+</trkpt>
+<trkpt lat="-8.66322415" lon="-78.20044187">
+<ele>548.569</ele>
+</trkpt>
+<trkpt lat="-8.66477707" lon="-78.20076683">
+<ele>550.492</ele>
+</trkpt>
+<trkpt lat="-8.66840140" lon="-78.19791757">
+<ele>561.547</ele>
+</trkpt>
+<trkpt lat="-8.67068044" lon="-78.19895098">
+<ele>561.547</ele>
+</trkpt>
+<trkpt lat="-8.67115695" lon="-78.19685307">
+<ele>557.702</ele>
+</trkpt>
+<trkpt lat="-8.67260099" lon="-78.19812209">
+<ele>558.663</ele>
+</trkpt>
+<trkpt lat="-8.67392206" lon="-78.19448443">
+<ele>565.873</ele>
+</trkpt>
+<trkpt lat="-8.67793229" lon="-78.19536621">
+<ele>578.370</ele>
+</trkpt>
+<trkpt lat="-8.68247336" lon="-78.19387020">
+<ele>594.713</ele>
+</trkpt>
+<trkpt lat="-8.68602335" lon="-78.19571984">
+<ele>597.597</ele>
+</trkpt>
+<trkpt lat="-8.68891158" lon="-78.19414396">
+<ele>603.365</ele>
+</trkpt>
+<trkpt lat="-8.68942958" lon="-78.19114307">
+<ele>615.381</ele>
+</trkpt>
+<trkpt lat="-8.69257389" lon="-78.18707064">
+<ele>615.381</ele>
+</trkpt>
+<trkpt lat="-8.69299357" lon="-78.17176536">
+<ele>651.911</ele>
+</trkpt>
+<trkpt lat="-8.69587208" lon="-78.16663589">
+<ele>670.657</ele>
+</trkpt>
+<trkpt lat="-8.69491386" lon="-78.16340006">
+<ele>661.524</ele>
+</trkpt>
+<trkpt lat="-8.68919112" lon="-78.15771185">
+<ele>675.463</ele>
+</trkpt>
+<trkpt lat="-8.68678308" lon="-78.15693007">
+<ele>676.906</ele>
+</trkpt>
+<trkpt lat="-8.67577588" lon="-78.15765359">
+<ele>699.016</ele>
+</trkpt>
+<trkpt lat="-8.66965575" lon="-78.14976605">
+<ele>710.071</ele>
+</trkpt>
+<trkpt lat="-8.66898185" lon="-78.14617709">
+<ele>719.204</ele>
+</trkpt>
+<trkpt lat="-8.67075814" lon="-78.14224145">
+<ele>722.568</ele>
+</trkpt>
+<trkpt lat="-8.67420319" lon="-78.14100638">
+<ele>723.049</ele>
+</trkpt>
+<trkpt lat="-8.67312368" lon="-78.13725447">
+<ele>732.662</ele>
+</trkpt>
+<trkpt lat="-8.67404150" lon="-78.13341874">
+<ele>734.585</ele>
+</trkpt>
+<trkpt lat="-8.66237079" lon="-78.11175295">
+<ele>753.330</ele>
+</trkpt>
+<trkpt lat="-8.66102155" lon="-78.10574245">
+<ele>758.617</ele>
+</trkpt>
+<trkpt lat="-8.66351014" lon="-78.09548116">
+<ele>773.518</ele>
+</trkpt>
+<trkpt lat="-8.66003157" lon="-78.08802227">
+<ele>783.131</ele>
+</trkpt>
+<trkpt lat="-8.66033432" lon="-78.08304258">
+<ele>789.380</ele>
+</trkpt>
+<trkpt lat="-8.65960526" lon="-78.07950056">
+<ele>796.590</ele>
+</trkpt>
+<trkpt lat="-8.65768866" lon="-78.07737357">
+<ele>791.302</ele>
+</trkpt>
+<trkpt lat="-8.65741214" lon="-78.07348646">
+<ele>798.032</ele>
+</trkpt>
+<trkpt lat="-8.65960476" lon="-78.06570956">
+<ele>821.584</ele>
+</trkpt>
+<trkpt lat="-8.66196343" lon="-78.06327856">
+<ele>814.374</ele>
+</trkpt>
+<trkpt lat="-8.66181113" lon="-78.05979471">
+<ele>818.219</ele>
+</trkpt>
+<trkpt lat="-8.66605455" lon="-78.05524191">
+<ele>821.584</ele>
+</trkpt>
+<trkpt lat="-8.66372229" lon="-78.05200364">
+<ele>825.910</ele>
+</trkpt>
+<trkpt lat="-8.66336748" lon="-78.04717977">
+<ele>842.252</ele>
+</trkpt>
+<trkpt lat="-8.66414473" lon="-78.04552167">
+<ele>843.213</ele>
+</trkpt>
+<trkpt lat="-8.67165006" lon="-78.03986363">
+<ele>860.517</ele>
+</trkpt>
+<trkpt lat="-8.67207863" lon="-78.03588482">
+<ele>859.556</ele>
+</trkpt>
+<trkpt lat="-8.67486259" lon="-78.03196427">
+<ele>867.247</ele>
+</trkpt>
+<trkpt lat="-8.67498974" lon="-78.02771733">
+<ele>897.047</ele>
+</trkpt>
+<trkpt lat="-8.67349123" lon="-78.02559470">
+<ele>869.650</ele>
+</trkpt>
+<trkpt lat="-8.67404829" lon="-78.02064594">
+<ele>889.837</ele>
+</trkpt>
+<trkpt lat="-8.67010519" lon="-78.01690006">
+<ele>910.025</ele>
+</trkpt>
+<trkpt lat="-8.66885042" lon="-78.01779844">
+<ele>912.428</ele>
+</trkpt>
+<trkpt lat="-8.66951569" lon="-78.01815567">
+<ele>915.313</ele>
+</trkpt>
+<trkpt lat="-8.66768600" lon="-78.01811510">
+<ele>920.119</ele>
+</trkpt>
+<trkpt lat="-8.66591516" lon="-78.01461776">
+<ele>931.655</ele>
+</trkpt>
+<trkpt lat="-8.66895645" lon="-78.01725831">
+<ele>941.268</ele>
+</trkpt>
+<trkpt lat="-8.66127016" lon="-78.00839486">
+<ele>936.942</ele>
+</trkpt>
+<trkpt lat="-8.66490464" lon="-78.01046016">
+<ele>939.826</ele>
+</trkpt>
+<trkpt lat="-8.66551006" lon="-78.00668454">
+<ele>941.268</ele>
+</trkpt>
+<trkpt lat="-8.66437247" lon="-78.00747260">
+<ele>941.749</ele>
+</trkpt>
+<trkpt lat="-8.66815145" lon="-78.00842169">
+<ele>955.207</ele>
+</trkpt>
+<trkpt lat="-8.66980202" lon="-78.00501989">
+<ele>959.052</ele>
+</trkpt>
+<trkpt lat="-8.66878948" lon="-78.00468285">
+<ele>960.494</ele>
+</trkpt>
+<trkpt lat="-8.66904086" lon="-78.00632797">
+<ele>961.456</ele>
+</trkpt>
+<trkpt lat="-8.67355267" lon="-78.00607375">
+<ele>958.091</ele>
+</trkpt>
+<trkpt lat="-8.67581553" lon="-77.99666959">
+<ele>982.605</ele>
+</trkpt>
+<trkpt lat="-8.68174120" lon="-77.99021929">
+<ele>1012.886</ele>
+</trkpt>
+<trkpt lat="-8.68109244" lon="-77.99120576">
+<ele>1015.770</ele>
+</trkpt>
+<trkpt lat="-8.68315640" lon="-77.99022457">
+<ele>1017.693</ele>
+</trkpt>
+<trkpt lat="-8.68227613" lon="-77.98904549">
+<ele>1020.577</ele>
+</trkpt>
+<trkpt lat="-8.68376074" lon="-77.98609364">
+<ele>1020.577</ele>
+</trkpt>
+<trkpt lat="-8.68245123" lon="-77.98481238">
+<ele>1025.383</ele>
+</trkpt>
+<trkpt lat="-8.68284543" lon="-77.98298009">
+<ele>1022.019</ele>
+</trkpt>
+<trkpt lat="-8.68748037" lon="-77.97335876">
+<ele>1021.058</ele>
+</trkpt>
+<trkpt lat="-8.69171416" lon="-77.97315759">
+<ele>1013.367</ele>
+</trkpt>
+<trkpt lat="-8.69228429" lon="-77.97114493">
+<ele>1007.118</ele>
+</trkpt>
+<trkpt lat="-8.69773806" lon="-77.96629424">
+<ele>1008.560</ele>
+</trkpt>
+<trkpt lat="-8.69972223" lon="-77.96056479">
+<ele>1012.886</ele>
+</trkpt>
+<trkpt lat="-8.69965802" lon="-77.95622950">
+<ele>1025.383</ele>
+</trkpt>
+<trkpt lat="-8.70257224" lon="-77.95642480">
+<ele>1027.306</ele>
+</trkpt>
+<trkpt lat="-8.70665942" lon="-77.95275143">
+<ele>1029.229</ele>
+</trkpt>
+<trkpt lat="-8.70793104" lon="-77.94986185">
+<ele>1041.245</ele>
+</trkpt>
+<trkpt lat="-8.71174548" lon="-77.94739741">
+<ele>1046.052</ele>
+</trkpt>
+<trkpt lat="-8.72188113" lon="-77.94258150">
+<ele>1067.681</ele>
+</trkpt>
+<trkpt lat="-8.72957395" lon="-77.94113068">
+<ele>1094.118</ele>
+</trkpt>
+</trkseg>
+</trk>
+<extensions>
+</extensions>
+</gpx>

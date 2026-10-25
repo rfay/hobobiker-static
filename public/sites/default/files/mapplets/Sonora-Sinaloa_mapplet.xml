@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+<ModulePrefs title="Northern Mexico" 
+             description="Hobobiker"
+             author="Randy Fay"
+             author_email="randyAndNancy@hobobiker.com"
+             height="150">
+  <Require feature="sharedmap"/>
+
+</ModulePrefs>
+
+<Content type="html">
+<![CDATA[
+
+<h2>Hobobiker - Northern Mexico</h2>
+
+<script>
+  var map = new GMap2();
+  map.setCenter(new GLatLng(37, -122));
+  
+  var map = new GMap2(); 
+  map.addControl(new GLargeMapControl());
+  map.addControl(new GMapTypeControl());
+
+  var kmlfile = "http://hobobiker.com/files/gps/Sonora-Sinaloa.kmz";
+  var rssfile = "http://hobobiker.com/flickr_rss/?min_taken_date=2007-02-09&max_taken_date=2007-03-05";
+  var geopics = new GGeoXml(rssfile);
+  var geoxml = new GGeoXml(kmlfile, function() {
+	    var center = geoxml.getDefaultCenter()
+	
+	    map.setCenter(center,11);
+		map.setZoom(map.getBoundsZoomLevel(geoxml.getDefaultBounds()));
+	
+	    map.addControl(new GLargeMapControl());
+	    map.addOverlay(geoxml);
+	    map.addOverlay(geopics);
+
+    } );
+</script>
+
+
+]]>
+</Content>
+</Module>
